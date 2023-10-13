@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Evan</h1>
 <h3 align="center">Engineer. Traveler. Thinker. Creator.</h3>
 
-Visit my website at [ebox86.com](https://ebox86.com)
+👉 Visit my website at [ebox86.com](https://ebox86.com)
 
 - 🌱 I’m currently learning:
     * Rust
