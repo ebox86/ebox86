@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Evan
+## 👋 Hey, I'm Evan
 
 - 🌱 I’m currently learning:
     * Rust
