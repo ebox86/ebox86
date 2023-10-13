@@ -4,10 +4,10 @@
     * Rust
     * Golang
 - 💬 Ask me about:
--   Infrastructure as code!
-    * Terraform
-    * CDK
-    * Pulumi
+    * Infrastructure as code!
+       * Terraform
+       * CDK
+       * Pulumi
 - 📫 How to reach me:
     * evan@ebox86.com
 - 😄 Pronouns:
