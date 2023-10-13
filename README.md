@@ -1,14 +1,14 @@
 ### 👋 Hey, I'm Evan
 
 - 🌱 I’m currently learning:
--   * Rust
+    * Rust
     * Golang
 - 💬 Ask me about:
 -   Infrastructure as code!
--   * Terraform
+    * Terraform
     * CDK
     * Pulumi
 - 📫 How to reach me:
--   evan@ebox86.com
+    * evan@ebox86.com
 - 😄 Pronouns:
--   he/him
+    * he/him
