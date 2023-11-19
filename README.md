@@ -11,6 +11,9 @@
        * Terraform
        * CDK
        * Pulumi
+    * Container Orchestration
+       * Fargate
+       * K8s
     * JAMstack
        * NextJS
        * Gatsby
