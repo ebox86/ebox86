@@ -11,6 +11,12 @@
        * Terraform
        * CDK
        * Pulumi
+    * JAMstack
+       * NextJS
+       * Gatsby
+    * Cloud Providers
+       * AWS
+       * GCP
 - 📫 How to reach me:
     * evan@ebox86.com
 - 😄 Pronouns:
