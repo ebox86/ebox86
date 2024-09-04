@@ -16,7 +16,7 @@
        * K8s
     * JAMstack
        * NextJS
-       * Gatsby
+       * Gatsby (legacy)
     * Cloud Providers
        * AWS
        * GCP
