@@ -16,10 +16,10 @@
        * K8s
     * JAMstack
        * NextJS
-       * Gatsby (legacy)
     * Cloud Providers
        * AWS
        * GCP
+       * OCI
 - 📫 How to reach me:
     * evan@ebox86.com
 - 😄 Pronouns:
